@@ -1,0 +1,20 @@
+{
+  "name": "upp-6",
+  "version": "1.0.0",
+  "description": "Unit testing toUpperCase() method",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "jest",
+    "toUpperCase"
+  ],
+  "author": "Val",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}

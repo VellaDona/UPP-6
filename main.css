@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+h1{
+    color: #2813b0bc;
+}
+
+.toUpperInput{
+    font-weight: bold;
+}
+
+button{
+    background-color: #7979ee5b;
+    font-weight: bold;
+}
+
+.notice{
+    color: #2813b0bc;
+}
